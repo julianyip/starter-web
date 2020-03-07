@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Julian Yip	julian11@hotmail.co.uk
 
 # THANKS
 
