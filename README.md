@@ -20,6 +20,8 @@ You can contribute by adding tutorials to this project.
 
 Please fork this repository and issue Pull request for review.
 
+Adding more text.
+
 ## Copyright
 
 2020 Git Training
