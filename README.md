@@ -18,6 +18,8 @@ Deployment status is currently set to default.
 
 You can contribute by adding tutorials to this project.
 
+Please fork this repository and issue Pull request for review.
+
 ## Copyright
 
 2020 Git Training
