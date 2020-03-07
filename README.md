@@ -17,3 +17,7 @@ Deployment status is currently set to default.
 ## How to Contribute
 
 You can contribute by adding tutorials to this project.
+
+## Copyright
+
+2020 Git Training
