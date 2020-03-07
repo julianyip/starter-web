@@ -25,3 +25,6 @@ Adding more text.
 ## Copyright
 
 2020 Git Training
+
+
+## New Section
