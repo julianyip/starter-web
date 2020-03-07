@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Deployment status is currently set to default.
+
 ## How to Contribute
+
+You can contribute by adding tutorials to this project.
